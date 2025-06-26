@@ -8,14 +8,14 @@ public class Main {
         System.out.println("---- Day 2 Exercises ----");
         int choice;
         do {
-            System.out.println("1- Exercise 1");
-            System.out.println("2- Exercise 2");
-            System.out.println("3- Exercise 3");
-            System.out.println("4- Exercise 4");
-            System.out.println("5- Exercise 5");
-            System.out.println("6- Exercise 6");
-            System.out.println("7- Exercise 7");
-            System.out.println("8- Exercise 8");
+            System.out.println("1- Exercise 1 (FizzBuzz)");
+            System.out.println("2- Exercise 2 (Reverse a text)");
+            System.out.println("3- Exercise 3 (Factorial number)");
+            System.out.println("4- Exercise 4 (Power of a number)");
+            System.out.println("5- Exercise 5 (Sum of even and odd Numbers)");
+            System.out.println("6- Exercise 6 (Prime Number)");
+            System.out.println("7- Exercise 7 (Weeks Days)");
+            System.out.println("8- Exercise 8 (Palindrome Check)");
             System.out.println("9- Exit");
             choice = sc.nextInt();
 
